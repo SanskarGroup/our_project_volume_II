@@ -1,0 +1,13 @@
+urls = [
+    "https://drive.google.com/open?id=1P1Jw7x2AI41joWKf-1BBBSDdUuSPLJik&usp=drive_copy",
+    "https://drive.google.com/open?id=1PM7EBgV2lnj_3fHu00HoqFfKTFkobBoV&usp=drive_copy",
+    "https://drive.google.com/open?id=1PIvAJp3F4XGVu807694xVDMwglGExp8F&usp=drive_copy",
+    "https://drive.google.com/open?id=1PH-ZZ-dHcQgeEr-7B-CmcCKHxgPojung&usp=drive_copy",
+    "https://drive.google.com/open?id=1PGGQ2NiCDocUqsczGIDff5M7A8cepBML&usp=drive_copy",
+    "https://drive.google.com/open?id=1PAjFJlEwPNedcHZLMM_Xa1_YNMdxCkWM&usp=drive_copy",
+    "https://drive.google.com/open?id=1P8Mj9bejnxFFeeWRQlt8e0HCqGb8tB7v&usp=drive_copy",
+    "https://drive.google.com/open?id=1P55Bk1Ubtl_gK-QNyAOvpMR9ZexpQf98&usp=drive_copy",
+    "https://drive.google.com/open?id=1P3t1oekJymgyp-d3oMCk0Nf_SChREn9y&usp=drive_copy",
+    "https://drive.google.com/open?id=1RVk3UV_pAlHwTeYOmEhjU1Qqz-ExkDVr&usp=drive_copy",
+    "https://drive.google.com/open?id=1R_RsTSMEAYQWChQ_I32xdPDXGeGIrotT&usp=drive_copy"
+]
